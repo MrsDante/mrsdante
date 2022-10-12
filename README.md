@@ -6,6 +6,7 @@
 
 
 [![codewars](https://www.codewars.com/users/MrsDante/badges/large)](https://www.codewars.com/users/MrsDante)
+[![MrsDante's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MrsDante&theme=dark)](https://github.com/MrsDante/leetcode-stats)
 
 <!--
 **MrsDante/mrsdante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
