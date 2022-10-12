@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Dante</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend Developer ✨🇺</h3>
 
 
 [![codewars](https://www.codewars.com/users/MrsDante/badges/large)](https://www.codewars.com/users/MrsDante)
