@@ -10,6 +10,8 @@
 
 [![MrsDante's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MrsDante&theme=dark)](https://github.com/MrsDante/leetcode-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrsDante&repo=quizAppReact)](https://github.com/MrsDante/quizAppReact)
+
 <!--
 **MrsDante/mrsdante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
