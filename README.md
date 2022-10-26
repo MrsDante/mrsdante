@@ -12,6 +12,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrsDante&repo=quizAppReact)](https://github.com/MrsDante/quizAppReact)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrsDante&repo=recipeAppReact)](https://github.com/MrsDante/recipeAppReact)
+
 <!--
 **MrsDante/mrsdante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
