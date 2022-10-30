@@ -14,6 +14,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrsDante&repo=recipeAppReact)](https://github.com/MrsDante/recipeAppReact)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrsDante&repo=reactNotesApp)](https://github.com/MrsDante/reactNotesApp)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrsDante&repo=reactQuoteGenerator)](https://github.com/MrsDante/reactQuoteGenerator)
+
 <!--
 **MrsDante/mrsdante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
